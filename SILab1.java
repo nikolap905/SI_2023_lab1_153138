@@ -39,3 +39,4 @@ public class SILab1 {
         System.out.println(sumEvenNumbers(list));
     }
 }
+//
