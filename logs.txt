@@ -1,0 +1,23 @@
+commit 354569783ac5dba86b61b944a7566233621dc05c (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Nikola <nikola.prckovski@gmail.com>
+Date:   Sat Apr 1 15:53:14 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 01d3db5192c4d7810d2b3c41bce281e7affd4a10
+Merge: 89af5ed 1052dca
+Author: Nikola <nikola.prckovski@gmail.com>
+Date:   Sat Apr 1 16:04:16 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 1052dca9fa0ef69b732d226001222f00a210f532 (origin/bug2, bug2)
+Author: Nikola <nikola.prckovski@gmail.com>
+Date:   Sat Apr 1 16:04:00 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 253ada0781a5a823ce4babdce954890b8d9861e3
+Author: Nikola <nikola.prckovski@gmail.com>
+Date:   Sat Apr 1 15:48:28 2023 +0200
+
